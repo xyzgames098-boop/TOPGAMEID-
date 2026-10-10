@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /?admin=
+Disallow: /?dasbor=
+Disallow: /?owner=
+
+Sitemap: https://ais-pre-xiqsshz3gdolqtftzuvjii-902424592462.asia-east1.run.app/sitemap.xml

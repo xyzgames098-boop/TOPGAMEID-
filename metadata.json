@@ -1,0 +1,6 @@
+{
+  "name": "TOPGAME ID - Top Up Game, Pulsa, E-Wallet & Tagihan 24 Jam",
+  "description": "Layanan top up game otomatis 24 jam termurah se-Indonesia. Tersedia Diamond MLBB, FF, UC PUBG, Valorant, Genshin, Pulsa, E-Wallet, Token PLN, dan Program Reseller VIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
